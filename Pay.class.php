@@ -49,7 +49,7 @@ class Pay{
 	}
 	
 	/**
-	 * 统一处理订单的回调
+	 * 统一处理订单的回调sss
 	 */
 	public function notify(){
 		$getNotifyData=$_REQUEST;
